@@ -7,7 +7,7 @@ let text = `
 const templateButtons = [
     {index: 1, urlButton: {displayText: '✨ Saweria', url: psaweria}},
     {index: 2, urlButton: {displayText: '📷 Instagram', url: sig}},
-    {index: 3, urlButton: {displayText: '🌎 Official Group', url: sgc}},
+    {index: 3, urlButton: {displayText: '🌎 Official Group', https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL: sgc}},
     {index: 4, quickReplyButton: {displayText: 'Menu', id: '.menu'}},
     {index: 5, quickReplyButton: {displayText: 'Owner', id: '.owner'}},
 ]
