@@ -46,9 +46,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'Gk Ad Bang:v'
-global.sgh = 'https://github.com/Bot-Mdnew'
-global.sgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
-global.sdc = 'https://github.com/Bot-Mdnew'
+global.sgh = ''
+global.sgc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL:'
+global.sdc = ''
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
@@ -63,7 +63,7 @@ global.psaweria = '-'
 global.nomorbot = '6281542613150'
 global.nomorown = '6281251549899'
 global.namebot = 'DaniBotz Ofc'
-global.nameown = 'X Dani Offcial'
+global.nameown = 'X Hendra Offcial'
 
 
 /*============== STAFF ==============*/
